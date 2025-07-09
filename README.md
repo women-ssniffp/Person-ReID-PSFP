@@ -1,6 +1,6 @@
 # Person Re-Identification with Body Part-Based Features and PSFP
 
-This repository implements a deep learning-based **Person Re-Identification (Re-ID)** system using a **Body Part-Based Re-Identification (BPBreID)** model with **Progressive Soft Filter Pruning (PSFP)**. The implementation is provided in a Jupyter Notebook (`source_code.ipynb`) for research, experimentation, and demonstration purposes (last updated: 06:40 PM IST, Wednesday, July 09, 2025).
+This repository implements a deep learning-based **Person Re-Identification (Re-ID)** system using a **Body Part-Based Re-Identification (BPBreID)** model with **Progressive Soft Filter Pruning (PSFP)**. The implementation is provided in a Jupyter Notebook (`source_code.ipynb`) for research, experimentation, and demonstration purposes.
 
 ---
 
@@ -39,7 +39,6 @@ Person-ReID-PSFP/
 ├── data/
 │   ├── query/             # Query images (e.g., query_image.jpg)
 │   └── gallery/           # Gallery images (e.g., gallery1.jpg, gallery2.jpg, gallery3.jpg)
-└── LICENSE                # MIT License file
 ```
 
 ---
